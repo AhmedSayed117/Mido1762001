@@ -1,7 +1,6 @@
-<p align="center" color=""white ><a href="https://profile-summary-for-github.com/user/Mido1762001" target="blank">My Githup Activity</a></p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mido1762001&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="mido1762001" /> </p>
 <h1 align="center">Hi 👋, I'm Ahmed Sayed</h1>
+<p align="center" color=""white ><a href="https://profile-summary-for-github.com/user/Mido1762001" target="blank">My Githup Activity</a></p>
 <h3 align="center">I studied in Cairo University in Computer Science Department I live in Giza I'm senior web Development</h3>
 
 
